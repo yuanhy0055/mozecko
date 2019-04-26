@@ -50,7 +50,7 @@
 #include <dlfcn.h>
 #endif
 
-
+#define JB_BP 0x08
 
 // This thing is exported by libstdc++
 // Yes, this is a gcc only hack
