@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Wed Mar 31 08:30:27 1999//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.25/Thu Mar 14 07:11:14 2002//TMOZILLA_1_7_RELEASE
+/jar.mn/1.22/Wed Feb  4 14:24:06 2004//TMOZILLA_1_7_RELEASE
+D/build////
+D/cookieviewer////
+D/editor////
+D/public////
+D/resources////
+D/signonviewer////
+D/src////
+D/walletpreview////

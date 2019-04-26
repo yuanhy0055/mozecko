@@ -1,0 +1,16 @@
+/.cvsignore/1.1/Tue Jul  8 21:14:37 2003//TMOZILLA_1_7_RELEASE
+/Info-AddressBookManager__Upgraded_.plist/1.1/Wed Feb  4 22:57:15 2004//TMOZILLA_1_7_RELEASE
+/Info-AppearancePrefPane__Upgraded_.plist/1.1/Wed Feb  4 22:57:15 2004//TMOZILLA_1_7_RELEASE
+/Info-CaminoStatic__Upgraded_.plist/1.2.2.2/Tue May 18 04:07:29 2004//TMOZILLA_1_7_RELEASE
+/Info-Camino__Upgraded_.plist/1.2.2.2/Tue May 18 04:07:29 2004//TMOZILLA_1_7_RELEASE
+/Info-NavigationPrefPane__Upgraded_.plist/1.1/Wed Feb  4 22:57:15 2004//TMOZILLA_1_7_RELEASE
+/Info-PersonalPrefPane__Upgraded_.plist/1.1/Wed Feb  4 22:57:15 2004//TMOZILLA_1_7_RELEASE
+/Info-PrivacyPrefPane__Upgraded_.plist/1.1/Wed Feb  4 22:57:15 2004//TMOZILLA_1_7_RELEASE
+/Info-SecurityPrefPane__Upgraded_.plist/1.1/Wed Feb  4 22:57:15 2004//TMOZILLA_1_7_RELEASE
+/Info-WebFeaturesPrefPane__Upgraded_.plist/1.1/Wed Feb  4 22:57:15 2004//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.7/Sat Feb  7 00:10:19 2004//TMOZILLA_1_7_RELEASE
+D/Camino.xcode////
+D/PreferencePanes////
+D/docs////
+D/resources////
+D/src////

@@ -1,0 +1,23 @@
+/.cvsignore/1.1/Tue Dec 18 09:12:10 2001//TMOZILLA_1_7_RELEASE
+/EudoraDebugLog.h/1.5/Thu Dec 19 23:28:51 2002//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.10/Wed Jan  7 13:36:39 2004//TMOZILLA_1_7_RELEASE
+/importeudora.pkg/1.2/Wed Jan  7 01:21:57 2004//TMOZILLA_1_7_RELEASE
+/nsEudoraAddress.cpp/1.27/Wed Oct  8 01:07:38 2003//TMOZILLA_1_7_RELEASE
+/nsEudoraAddress.h/1.6/Fri May 17 20:18:39 2002//TMOZILLA_1_7_RELEASE
+/nsEudoraCompose.cpp/1.54/Thu Feb  5 21:14:17 2004//TMOZILLA_1_7_RELEASE
+/nsEudoraCompose.h/1.10/Mon Mar  4 23:40:15 2002//TMOZILLA_1_7_RELEASE
+/nsEudoraFactory.cpp/1.13/Wed Jan 30 21:04:55 2002//TMOZILLA_1_7_RELEASE
+/nsEudoraImport.cpp/1.33/Fri May 30 23:42:32 2003//TMOZILLA_1_7_RELEASE
+/nsEudoraImport.h/1.4/Thu Dec 14 17:25:18 2000//TMOZILLA_1_7_RELEASE
+/nsEudoraMac.cpp/1.35/Wed Feb 11 01:01:31 2004//TMOZILLA_1_7_RELEASE
+/nsEudoraMac.h/1.4/Fri May 30 23:42:32 2003//TMOZILLA_1_7_RELEASE
+/nsEudoraMailbox.cpp/1.18/Fri May 30 23:42:32 2003//TMOZILLA_1_7_RELEASE
+/nsEudoraMailbox.h/1.6/Mon Mar  4 23:40:16 2002//TMOZILLA_1_7_RELEASE
+/nsEudoraSettings.cpp/1.8/Fri May 30 23:42:33 2003//TMOZILLA_1_7_RELEASE
+/nsEudoraSettings.h/1.1/Tue Nov 16 01:17:50 1999//TMOZILLA_1_7_RELEASE
+/nsEudoraStringBundle.cpp/1.13/Fri Nov 15 03:29:16 2002//TMOZILLA_1_7_RELEASE
+/nsEudoraStringBundle.h/1.4/Sat Mar 11 21:28:18 2000//TMOZILLA_1_7_RELEASE
+/nsEudoraWin32.cpp/1.37/Sun Jul 20 07:46:58 2003//TMOZILLA_1_7_RELEASE
+/nsEudoraWin32.h/1.4/Sat May 26 06:00:40 2001//TMOZILLA_1_7_RELEASE
+/win32.order/1.4/Thu Apr  5 05:58:53 2001//TMOZILLA_1_7_RELEASE
+D

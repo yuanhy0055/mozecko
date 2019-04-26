@@ -1,0 +1,10 @@
+/.cvsignore/1.1/Tue Apr  2 06:59:32 2002//TMOZILLA_1_7_RELEASE
+/LICENSE/1.2/Wed Feb 11 00:57:43 2004//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.6.10.1/Thu Apr 22 04:55:04 2004//TMOZILLA_1_7_RELEASE
+/README.html/1.25/Wed Feb 11 00:56:12 2004//TMOZILLA_1_7_RELEASE
+D/app////
+D/base////
+D/components////
+D/config////
+D/extensions////
+D/installer////

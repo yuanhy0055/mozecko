@@ -1,0 +1,6 @@
+/.cvsignore/1.1/Mon Apr  5 05:19:28 1999//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.5/Mon Dec 22 05:23:00 2003//TMOZILLA_1_7_RELEASE
+D/build////
+D/public////
+D/src////
+D/tools////

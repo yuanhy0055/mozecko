@@ -1,0 +1,9 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:25 2001//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.6/Sat Dec 28 01:13:27 2002//TMOZILLA_1_7_RELEASE
+/nsIAuthPromptWrapper.idl/1.1/Thu Feb  7 15:56:35 2002//TMOZILLA_1_7_RELEASE
+/nsIDialogParamBlock.idl/1.6/Wed Jan 22 05:52:22 2003//TMOZILLA_1_7_RELEASE
+/nsIPromptService.idl/1.12.68.2/Sat Jun  5 20:01:16 2004//TMOZILLA_1_7_RELEASE
+/nsIWindowWatcher.idl/1.12/Tue Jul 23 02:27:16 2002//TMOZILLA_1_7_RELEASE
+/nsPIPromptService.idl/1.6.128.2/Sat Jun  5 20:01:16 2004//TMOZILLA_1_7_RELEASE
+/nsPIWindowWatcher.idl/1.7/Fri Nov 16 02:10:57 2001//TMOZILLA_1_7_RELEASE
+D

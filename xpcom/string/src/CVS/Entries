@@ -1,0 +1,23 @@
+/.cvsignore/1.1/Sat Feb 24 06:22:42 2001//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.23/Sat Apr  3 21:54:49 2004//TMOZILLA_1_7_RELEASE
+/nsAString.cpp/1.25/Thu Feb 19 02:43:50 2004//TMOZILLA_1_7_RELEASE
+/nsDependentSubstring.cpp/1.10/Thu Feb 19 02:43:50 2004//TMOZILLA_1_7_RELEASE
+/nsObsoleteAStringThunk.cpp/1.2/Thu Feb 19 02:43:50 2004//TMOZILLA_1_7_RELEASE
+/nsPrintfCString.cpp/1.5/Thu Feb 19 02:43:50 2004//TMOZILLA_1_7_RELEASE
+/nsPromiseFlatString.cpp/1.7/Thu Feb 19 02:43:50 2004//TMOZILLA_1_7_RELEASE
+/nsReadableUtils.cpp/1.58/Thu Feb 19 02:43:50 2004//TMOZILLA_1_7_RELEASE
+/nsString.cpp/1.4/Sat Mar  6 03:29:49 2004//TMOZILLA_1_7_RELEASE
+/nsStringComparator.cpp/1.2/Thu Feb 19 02:43:50 2004//TMOZILLA_1_7_RELEASE
+/nsStringObsolete.cpp/1.5.2.2/Thu Apr 29 01:54:55 2004//TMOZILLA_1_7_RELEASE
+/nsSubstring.cpp/1.3/Fri Feb 20 01:53:22 2004//TMOZILLA_1_7_RELEASE
+/nsSubstringTuple.cpp/1.2/Thu Feb 19 02:43:51 2004//TMOZILLA_1_7_RELEASE
+/nsTAString.cpp/1.2/Thu Feb 19 02:43:51 2004//TMOZILLA_1_7_RELEASE
+/nsTDependentSubstring.cpp/1.3/Sat Feb 28 22:34:06 2004//TMOZILLA_1_7_RELEASE
+/nsTObsoleteAStringThunk.cpp/1.2/Thu Feb 19 02:43:58 2004//TMOZILLA_1_7_RELEASE
+/nsTPromiseFlatString.cpp/1.2/Thu Feb 19 02:43:58 2004//TMOZILLA_1_7_RELEASE
+/nsTString.cpp/1.4/Sat Mar  6 03:29:49 2004//TMOZILLA_1_7_RELEASE
+/nsTStringComparator.cpp/1.2/Thu Feb 19 02:43:58 2004//TMOZILLA_1_7_RELEASE
+/nsTStringObsolete.cpp/1.3.2.1/Thu Apr 29 01:54:55 2004//TMOZILLA_1_7_RELEASE
+/nsTSubstring.cpp/1.5.2.1/Wed Jun  9 03:00:21 2004//TMOZILLA_1_7_RELEASE
+/nsTSubstringTuple.cpp/1.2/Thu Feb 19 02:43:58 2004//TMOZILLA_1_7_RELEASE
+D

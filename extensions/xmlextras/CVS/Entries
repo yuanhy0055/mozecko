@@ -1,0 +1,7 @@
+/.cvsignore/1.1/Sun Jul  9 21:09:55 2000//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.16/Sat Aug 16 00:41:39 2003//TMOZILLA_1_7_RELEASE
+D/base////
+D/build////
+D/ls////
+D/pointers////
+D/tests////

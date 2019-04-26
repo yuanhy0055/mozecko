@@ -1,0 +1,10 @@
+/.cvsignore/1.1/Sun Aug  4 05:44:24 2002//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.22/Tue Mar 30 23:38:41 2004//TMOZILLA_1_7_RELEASE
+D/components////
+D/content////
+D/locale////
+D/mozapps////
+D/obsolete////
+D/profile////
+D/skin////
+D/xre////

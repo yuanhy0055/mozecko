@@ -1,0 +1,11 @@
+/.cvsignore/1.1/Sat Dec  5 09:01:46 1998//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.29/Sat Aug 16 00:41:21 2003//TMOZILLA_1_7_RELEASE
+/README.html/1.1/Sat Dec  4 02:04:30 1999//TMOZILLA_1_7_RELEASE
+D/composer////
+D/docs////
+D/idl////
+D/libeditor////
+D/public////
+D/txmgr////
+D/txtsvc////
+D/ui////

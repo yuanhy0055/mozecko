@@ -1,0 +1,7 @@
+/.cvsignore/1.1/Sun Jul 18 00:26:01 1999//TMOZILLA_1_7_RELEASE
+/Makefile.in/1.16/Tue Oct 21 22:11:40 2003//TMOZILLA_1_7_RELEASE
+/nsIPrincipal.idl/1.29/Mon Nov  3 04:26:50 2003//TMOZILLA_1_7_RELEASE
+/nsIScriptSecurityManager.idl/1.61/Fri Dec 19 21:51:37 2003//TMOZILLA_1_7_RELEASE
+/nsISecurityCheckedComponent.idl/1.5/Tue Sep 25 01:03:51 2001//TMOZILLA_1_7_RELEASE
+/nsISignatureVerifier.idl/1.6/Tue Sep 25 01:03:51 2001//TMOZILLA_1_7_RELEASE
+D
