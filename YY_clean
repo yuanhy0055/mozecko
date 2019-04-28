@@ -1,0 +1,6 @@
+rm       extensions/p3p/p3p200005.xsl
+rm       extensions/p3p/p3p200010.xsl
+rm       extensions/p3p/p3p200012.xsl
+rm       extensions/p3p/p3p200109.xsl
+rm       extensions/p3p/p3p200201.xsl
+rm       gfx/gfx-config.h
