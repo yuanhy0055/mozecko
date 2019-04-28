@@ -1,9 +1,0 @@
-/.cvsignore/1.1/Fri Jul  6 02:35:45 2001//TMOZILLA_1_7_RELEASE
-/Makefile.in/1.9/Mon Jan 20 11:04:22 2003//TMOZILLA_1_7_RELEASE
-D/base////
-D/examples////
-D/lib////
-D/main////
-D/xml////
-D/xpath////
-D/xslt////

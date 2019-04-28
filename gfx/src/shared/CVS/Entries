@@ -1,9 +1,0 @@
-/.cvsignore/1.1/Thu Sep  5 18:12:43 2002//TMOZILLA_1_7_RELEASE
-/Makefile.in/1.5/Wed Mar 12 04:57:15 2003//TMOZILLA_1_7_RELEASE
-/gfxImageFrame.cpp/1.26/Fri Jan 16 23:28:48 2004//TMOZILLA_1_7_RELEASE
-/gfxImageFrame.h/1.6/Tue Mar 18 21:07:21 2003//TMOZILLA_1_7_RELEASE
-/ignorable.x-ccmap/1.3/Mon Dec 15 00:32:16 2003//TMOZILLA_1_7_RELEASE
-/nsNativeTheme.cpp/1.13.2.1/Tue Apr 20 09:36:47 2004//TMOZILLA_1_7_RELEASE
-/nsNativeTheme.h/1.6/Mon Sep 29 06:03:49 2003//TMOZILLA_1_7_RELEASE
-/nsRenderingContextImpl.cpp/3.42/Thu Feb  5 01:57:05 2004//TMOZILLA_1_7_RELEASE
-D
