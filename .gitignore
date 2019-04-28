@@ -12,3 +12,9 @@ a.out
 unallmakefiles
 nss
 mozilla-config.h
+
+*.o
+*.a
+*.so
+.deps
+_xpidlgen
