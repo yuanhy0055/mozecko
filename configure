@@ -4674,7 +4674,7 @@ else
     OS_TARGET=`uname -s`
     OS_ARCH=`uname -s | sed -e 's|/|_|g'`
     OS_RELEASE=`uname -r`
-    OS_TEST=`uname -m`
+    OS_TEST=`echo i686`
 fi
 _COMPILER_PREFIX=
 
